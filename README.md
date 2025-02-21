@@ -40,7 +40,7 @@ Once we've investigated and cleaned up the data, we'll need to address the class
 <h2>Model Creation</h2>
 In this project I used 4 models:<br>
 1. Logistic Regression Model
-  ![Image](https://github.com/user-attachments/assets/f0de54bd-ea7a-4c1f-8158-20758274876a) 
+![Image](https://github.com/user-attachments/assets/f0de54bd-ea7a-4c1f-8158-20758274876a
   <br>
 2. Logistic Regression Model with SMOTE
   
