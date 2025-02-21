@@ -15,9 +15,11 @@ Features: The number of features is 21 columns, including the target variable (c
 
 Data Types:
 
-Categorical: state, phone numbe, international plan, voice mail plan, churn.
-Numerical:
-Integer: account length, area code, amount of vmail messages, total day calls, total evening calls, total night calls, total international calls, and customer service calls.
-Float: total day minutes, total day charge, total evening minutes, total evening charge, total night minutes, total night charge, total international minutes, total international charge.
+1. <b>Categorical</b>:
+  state, phone numbe, international plan, voice mail plan, churn.
+2. `Numerical`:
+  Integer: account length, area code, amount of vmail messages, total day calls, total evening calls, total night calls, total international calls, and customer service calls.
+3. Float:
+   total day minutes, total day charge, total evening minutes, total evening charge, total night minutes, total night charge, total international minutes, total international charge.
 
 
