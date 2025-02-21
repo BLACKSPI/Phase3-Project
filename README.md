@@ -38,18 +38,18 @@ Another item on my radar is the state column. It contains too many distinct cate
 Once we've investigated and cleaned up the data, we'll need to address the class imbalance. Perhaps oversampling churners using SMOTE or modifying class weights in our model would do the job. Following that, we may experiment with several models—Logistic Regression for interpretability and something like Decision Tree.</p>
 
 <h2>Model Creation</h2>
-In this project I used 4 models:
+In this project I used 4 models:<br>
 1. Logistic Regression Model
-  ![Image](https://github.com/user-attachments/assets/01e56a57-d855-4796-a03b-ac651c45990f)
+ 
   <br>
 2. Logistic Regression Model with SMOTE
-  ![image](https://github.com/user-attachments/assets/6d9eea93-4d26-4d38-a0b6-4b5d2e95821d)
+  
   <br>
 3. KNN Model
-  ![image](https://github.com/user-attachments/assets/606ccd8a-0dff-412a-be29-7d07b5f9e1e0)
+
   <br>
 4. Decision Tree 
-  ![image](https://github.com/user-attachments/assets/5ff83620-428e-4ef2-adbb-ccc10a516ec0)
+  
   <br>
 
 <h2>Model Selection</h2>
