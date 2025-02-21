@@ -40,7 +40,7 @@ Once we've investigated and cleaned up the data, we'll need to address the class
 <h2>Model Creation</h2>
 In this project I used 4 models:<br>
 1. Logistic Regression Model
-![Image](https://github.com/user-attachments/assets/f0de54bd-ea7a-4c1f-8158-20758274876a
+
   <br>
 2. Logistic Regression Model with SMOTE
   
@@ -69,6 +69,6 @@ The ROC curve clearly shows that the Decision Tree model outperforms the others.
 4. <b>Proactive Retention Strategies:</b>
 <p>Create focused retention efforts for high-risk customers identified using the model. These might include targeted offers, better customer service, and loyalty programs.</p> <br>
 
-
+![Image](https://github.com/user-attachments/assets/f0de54bd-ea7a-4c1f-8158-20758274876a
 
 
