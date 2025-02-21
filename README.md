@@ -40,7 +40,7 @@ Once we've investigated and cleaned up the data, we'll need to address the class
 <h2>Model Creation</h2>
 In this project I used 4 models:<br>
 1. Logistic Regression Model
-<img src="Images/Logistic Regression.png">
+<img src="Images/Logistic Regression.png", style="width:500px;height:600px;">
   <br>
 2. Logistic Regression Model with SMOTE
   
