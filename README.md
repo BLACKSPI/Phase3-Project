@@ -46,7 +46,7 @@ In this project I used 4 models:<br>
   <img src="Images/Logistic Regression w SMOTE.png">
   <br>
 3. KNN Model
-
+  <img src="Images/KNN 2.png">
   <br>
 4. Decision Tree 
   
