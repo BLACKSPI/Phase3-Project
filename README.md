@@ -6,6 +6,7 @@
 <p>Customer churn is a key problem for telecommunications firms since losing customers has a direct influence on revenues and growth. This project seeks to create a machine learning classifier that can predict if a client will churn (leave SyriaTel). By studying customer usage habits, plan subscriptions, and contacts with the organization, we identify significant churn contributors and give practical ideas for reducing it.</p> <br>
 
 <h2>Data Understanding</h2>
+Dataset used: https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset
 The collection has 3,333 entries, each representing a consumer. The idea is to evaluate these records for trends that suggest client turnover. Here's a full analysis of the data:
 
 Target Variable
@@ -69,6 +70,5 @@ The ROC curve clearly shows that the Decision Tree model outperforms the others.
 4. <b>Proactive Retention Strategies:</b>
 <p>Create focused retention efforts for high-risk customers identified using the model. These might include targeted offers, better customer service, and loyalty programs.</p> <br>
 
-![Image](https://github.com/user-attachments/assets/f0de54bd-ea7a-4c1f-8158-20758274876a
 
 
