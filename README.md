@@ -24,10 +24,10 @@ Data Types:
    total day minutes, total day charge, total evening minutes, total evening charge, total night minutes, total night charge, total international minutes, total international charge. <br>
 
 <h2>Project Plan</h2>
-1. Data Preparation
-2. Model Creation
-3. Model Selection
-4. Recommendations
+1. Data Preparation<br>
+2. Model Creation<br>
+3. Model Selection<br>
+4. Recommendations<br>
 
 <h3>1. Data Preparation</h3>
 <p>Lets get into it! Okay, we're attempting to figure out why consumers are leaving SyriaTel and who will churn in the near future. The dataset appears clean at first inspection, which is a good start; there are no missing values or duplicates.
@@ -38,26 +38,26 @@ Another item on my radar is the state column. It contains too many distinct cate
 
 Once we've investigated and cleaned up the data, we'll need to address the class imbalance. Perhaps oversampling churners using SMOTE or modifying class weights in our model would do the job. Following that, we may experiment with several models—Logistic Regression for interpretability and something like Decision Tree.</p>
 
-<h2>Model Creation</h2>
+<h2>2. Model Creation</h2>
 In this project I used 4 models:<br>
-1. Logistic Regression Model
+I. Logistic Regression Model
 <img src="Images/Logistic Regression.png">
   <br>
-2. Logistic Regression Model with SMOTE
+II. Logistic Regression Model with SMOTE
   <img src="Images/Logistic Regression w SMOTE.png">
   <br>
-3. KNN Model
+III. KNN Model
   <img src="Images/KNN 2.png">
   <br>
-4. Decision Tree 
+IV. Decision Tree 
   <img src="Images/Decision Tree.png">
   <br>
 
-<h2>Model Selection</h2>
+<h2>3. Model Selection</h2>
 <div><img src="Images/Final Model.png"></div>
 The ROC curve clearly shows that the Decision Tree model outperforms the others. Its green curve is the steepest and spans the biggest area under the curve (AUC), indicating that it performs the best at differentiating between positive and negative classes. Essentially, the Decision Tree model finds a good mix between properly recognizing true positives and reducing false positives, making it the best option for this dataset.
 
-<h2>Recommendations</h2>
+<h2>4. Recommendations</h2>
 1. <b>Check and Refine the Model:</b> 
 <p>To guarantee that the model reacts to changing consumer behavior, regularly check its performance over time and retrain it with fresh data.  Consider including customer feedback and service interaction data to improve the model's predictive ability.</p> <br>
 
