@@ -43,7 +43,7 @@ In this project I used 4 models:<br>
 <img src="Images/Logistic Regression.png">
   <br>
 2. Logistic Regression Model with SMOTE
-  
+  <img src="Images/Logistic Regression w SMOTE.png">
   <br>
 3. KNN Model
 
