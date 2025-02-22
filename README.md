@@ -49,11 +49,11 @@ In this project I used 4 models:<br>
   <img src="Images/KNN 2.png">
   <br>
 4. Decision Tree 
-  
+  <img src="Images/Decision Tree.png">
   <br>
 
 <h2>Model Selection</h2>
-![image](https://github.com/user-attachments/assets/e2e6e09a-40cf-4002-aabd-bc1c478b73cd)
+<div></div>
 The ROC curve clearly shows that the Decision Tree model outperforms the others. Its green curve is the steepest and spans the biggest area under the curve (AUC), indicating that it performs the best at differentiating between positive and negative classes. Essentially, the Decision Tree model finds a good mix between properly recognizing true positives and reducing false positives, making it the best option for this dataset.
 
 <h2>Recommendations</h2>
