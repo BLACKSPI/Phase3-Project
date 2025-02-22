@@ -57,7 +57,7 @@ IV. Decision Tree
 <div><img src="Images/Final Model.png"></div>
 The ROC curve clearly shows that the Decision Tree model outperforms the others. Its green curve is the steepest and spans the biggest area under the curve (AUC), indicating that it performs the best at differentiating between positive and negative classes. Essentially, the Decision Tree model finds a good mix between properly recognizing true positives and reducing false positives, making it the best option for this dataset.
 
-<h2>4. Recommendations</h2>
+<h2>4. Recommendations</h2><br>
 1. <b>Check and Refine the Model:</b> 
 <p>To guarantee that the model reacts to changing consumer behavior, regularly check its performance over time and retrain it with fresh data.  Consider including customer feedback and service interaction data to improve the model's predictive ability.</p> <br>
 
