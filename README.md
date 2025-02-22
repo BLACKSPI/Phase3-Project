@@ -53,7 +53,7 @@ In this project I used 4 models:<br>
   <br>
 
 <h2>Model Selection</h2>
-<div></div>
+<div><img src="Images/Final Model.png"></div>
 The ROC curve clearly shows that the Decision Tree model outperforms the others. Its green curve is the steepest and spans the biggest area under the curve (AUC), indicating that it performs the best at differentiating between positive and negative classes. Essentially, the Decision Tree model finds a good mix between properly recognizing true positives and reducing false positives, making it the best option for this dataset.
 
 <h2>Recommendations</h2>
